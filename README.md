@@ -1,7 +1,7 @@
 Android_NoBackBar_Sample_BB10
 =============================
 
-Aplicación Android portada a BlackBerry 10 sin Action Bar / Back Bar
+Aplicación Android portada a BlackBerry 10 sin Action Bar / Back Bar con Command-Line tools for Android Apps 2.0.1 beta
 
 El tutorial y explicacion de el código usado en este repositorio podrán encontrarlo en: <a href="http://wp.me/p3UsEt-vX">http://wp.me/p3UsEt-vX</a>
 
